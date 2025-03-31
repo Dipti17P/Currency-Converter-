@@ -5,8 +5,11 @@ This project is a currency converter that fetches real-time exchange rates using
 🚀 Features:
 
 ✅ Real-time currency conversion using an API.
+
 ✅ Dynamic country flags and names for currency selection.
+
 ✅ User-friendly interface with a smooth and interactive experience.
+
 ✅ Built with HTML, CSS, and JavaScript for a lightweight and efficient app.
 
 
@@ -28,15 +31,17 @@ This project uses an API to fetch live exchange rates and country details.
 API response example:
 
 json
-Copy
-Edit
+
 {
+
   "base": "USD",
+  
   "rates": {
     "EUR": 0.92,
     "GBP": 0.78,
     "INR": 83.45
   }
+  
 }
 
 
